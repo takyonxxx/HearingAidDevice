@@ -326,7 +326,7 @@ SOFTWARE.
 
 For questions, suggestions, or issues:
 - Open an issue on GitHub
-- Email: your.email@example.com
+- Email: turkaybiliyor@hotmail.com
 
 ---
 
